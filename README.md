@@ -1,5 +1,6 @@
 # hand-gesture-detection
 automate actions with hand gestures using computer vision and Raspberry Pi chip + camera
+Robot name: Momo the Marsh Mellow
 
 Building a robot that can:
 - Recognize specific hand gestures via webcam.
